@@ -66,12 +66,13 @@
 			    	echo '<span class="badge none ', $kad_status, '">', $kad1, ' ', $kad2, '</span>';
 			    ?>
 
-					<!-- ED2k
+					<!-- 
+					<span>Ed2k</span>
 					<span class="badge none orange">
 					connected
 					</span>
 
-					KAD
+					<span>KAD</span>
 					<span class="badge none orange">
 					connected
 					</span> -->
@@ -80,7 +81,7 @@
 
 			<a href="amuleweb-main-log.php" class="button circle">
 				<i>refresh</i>
-				<div class="tooltip bottom">Refresh page</div>
+				<div class="tooltip left">Refresh page</div>
 			</a>		
 
 			<button class="circle transparent s">
